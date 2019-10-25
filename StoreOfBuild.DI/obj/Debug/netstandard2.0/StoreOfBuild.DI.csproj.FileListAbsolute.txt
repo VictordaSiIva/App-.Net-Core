@@ -1,0 +1,8 @@
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\bin\Debug\netstandard2.0\StoreOfBuild.DI.deps.json
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\bin\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\bin\Debug\netstandard2.0\StoreOfBuild.DI.pdb
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\obj\Debug\netstandard2.0\StoreOfBuild.DI.csprojAssemblyReference.cache
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfoInputs.cache
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfo.cs
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\obj\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Di\obj\Debug\netstandard2.0\StoreOfBuild.DI.pdb

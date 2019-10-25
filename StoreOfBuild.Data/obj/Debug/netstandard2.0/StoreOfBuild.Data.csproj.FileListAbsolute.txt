@@ -1,0 +1,11 @@
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csprojAssemblyReference.cache
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfo.cs
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CopyComplete
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\Users\Victor da Silva\Desktop\ASP.NET\ProjetoUdemy\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.pdb
